@@ -10,7 +10,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="https://github.com/ShubhamSitabh/ShubhamSitabh/issues/new"><b>here</b></a><br>
 or <a href="mailto:ssitabh@gmail.com"><b>email</b></a> me
 
-<i>Happy Coding!</i> 😊
+<i>Code composer transforming ideas into reality!!   Happy Coding!</i> 😊
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shubhamsitabh&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsitabh" /> </p>
 </div>
 
