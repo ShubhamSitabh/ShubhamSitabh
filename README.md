@@ -1,8 +1,10 @@
-![logo](https://github.com/ShubhamSitabh/ShubhamSitabh/blob/main/linkedin-company-hero-1128x376.jpg)
+![logo](https://github.com/ShubhamSitabh/ShubhamSitabh/blob/main/linkedin-company-hero-1128x376.jpg )
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h2>
 <h1 align="center">Hi 👋, I'm Shubham Sitabh </h1>
 <h1 align="center"> https://ssitabh.wixsite.com/portfolio-site  </h1>
-  
+<h1 align="center"><a href="https://ssitabh.wixsite.com/portfolio-site" target= "_blank" > https://ssitabh.wixsite.com/portfolio-site </a></br>
+  </h1>
+<a href="https://ssitabh.wixsite.com/portfolio-site" target= "_blank" > https://ssitabh.wixsite.com/portfolio-site </a></br>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <div align="center">
